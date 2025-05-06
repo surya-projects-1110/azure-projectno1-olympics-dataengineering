@@ -1,5 +1,9 @@
 # Tokyo Olympics Azure Data Engineering Project
 
+
+!Azure Project Diagram
+
+
 ## Project Overview
 
 This project demonstrates an end-to-end data engineering pipeline built on Microsoft Azure. The pipeline ingests, transforms, stores, and analyzes Tokyo Olympics data using a suite of Azure services. The objective is to showcase a modern data architecture that leverages scalable and cloud-native tools for efficient data processing and analytics.
