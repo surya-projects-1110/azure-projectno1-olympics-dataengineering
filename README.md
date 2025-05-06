@@ -1,8 +1,8 @@
 # Tokyo Olympics Azure Data Engineering Project
 
-
-!Azure Project Diagram
-
+<p align="center">
+  <img src="Azure%20Project%20Diagram.png" alt="Azure Project Diagram" width="600"/>
+</p>
 
 ## Project Overview
 
